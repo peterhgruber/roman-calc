@@ -1,0 +1,1 @@
+# Roman Numeral Calculator\n\nWelcome to the Roman Numeral Calculator repository! This project aims to provide tools for converting, calculating, and manipulating Roman numerals.\n\n## Repository Link\n\nCheck out this project on GitHub: [Roman Numeral Calculator](https://github.com/peterhgruber/roman-calc).
